@@ -1,0 +1,5 @@
+odbc_driver=org.postgresql.Driver
+url=jdbc:postgresql://localhost:5432/PAC3
+schema=public
+username=postgres
+password=postgres
