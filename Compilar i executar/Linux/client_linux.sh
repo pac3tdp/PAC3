@@ -2,4 +2,4 @@
 
 echo Executar menú
 
-java  codi.uoc.tdp.pac3.client.menus.nom.java 111
+java  codi.uoc.tdp.pac3.client.menus.nom.java
